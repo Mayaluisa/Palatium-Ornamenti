@@ -1,2 +1,2 @@
-# Palatium-Ornamenti
-Our website, powered by cutting-edge web technologies React and Bootstrap, ensures a secure and seamless shopping experience on any device. 
+# Palatium Ornamenti: E-Commerce Jewelry Emporium
+Palatium Ornamenti offers a contemporary and user-centric shopping experience with a sleek design. This platform harnesses the power of React and Bootstrap programming languages to craft a resilient and feature-rich e-commerce destination.
